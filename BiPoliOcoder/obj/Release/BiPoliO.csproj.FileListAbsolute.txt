@@ -1,0 +1,62 @@
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\BiPoliO.exe.config
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\BiPoliO.exe
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\BiPoliO.pdb
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.AboutForm.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.CaesarIndexSH_DSH.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.SettingsForm.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.KeyFormSH_DSH.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.exe
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.pdb
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\de\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\es\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\fr\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ru\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\uk\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.de.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.es.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.fr.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.ru.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\BiPoliO.MainForm.uk.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\de\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\es\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\fr\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ru\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\uk\BiPoliO.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO\WindowsFormsApplication3\bin\Release\BiPoliO.exe.config
+D:\Visual Studio 2013\Projects\BiPoliO\WindowsFormsApplication3\obj\Release\BiPoliO.exe
+D:\Visual Studio 2013\Projects\BiPoliO\WindowsFormsApplication3\obj\Release\BiPoliO.pdb
+D:\Visual Studio 2013\Projects\BiPoliO\BiPoliO\bin\Release\BiPoliO.exe.config
+D:\Visual Studio 2013\Projects\BiPoliO\BiPoliO\obj\Release\BiPoliO.exe
+D:\Visual Studio 2013\Projects\BiPoliO\BiPoliO\obj\Release\BiPoliO.pdb
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliO.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliO.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\BiPoliOcoder.exe.config
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\BiPoliOcoder.exe
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\BiPoliOcoder.pdb
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\bin\Release\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.AboutForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.SettingsForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.de.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.es.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.fr.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.ru.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.MainForm.uk.resources
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.exe
+D:\Visual Studio 2013\Projects\BiPoliO Project\BiPoliO\obj\Release\BiPoliOcoder.pdb

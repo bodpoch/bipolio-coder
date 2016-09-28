@@ -1,0 +1,9 @@
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\BiPoliO En(De)cryptor.csprojResolveAssemblyReference.cache
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AboutForm.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\BiPoliOEnDecryptor.MainForm.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SettingsForm.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SHKeyForm.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DSHKeyForm.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\BiPoliO.Properties.Resources.resources
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\BiPoliO En(De)cryptor.csproj.GenerateResource.Cache
+C:\Users\Bohdan\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\BiPoliO.MainForm.resources

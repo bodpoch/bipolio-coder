@@ -1,0 +1,139 @@
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe.config
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.pdb
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.AboutForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.SettingsForm.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.de.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.es.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.fr.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.ru.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.uk.resources
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.exe
+D:\Visual Studio 2013\Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.pdb
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe.config
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.exe
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.pdb
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.pdb
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.SettingsForm.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.Properties.Resources.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.de.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.es.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.fr.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.ru.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.uk.resources
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csproj.GenerateResource.Cache
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\de\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\es\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\fr\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\ru\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\uk\BiPoliOcoder.resources.dll
+D:\Visual Studio 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.AboutBox.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe.config
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.exe
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.pdb
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.pdb
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\de\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\es\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\fr\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\ru\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\bin\Debug\uk\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.AboutBox.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.SettingsForm.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.Properties.Resources.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.de.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.es.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.fr.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.ru.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.uk.resources
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csproj.GenerateResource.Cache
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\de\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\es\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\fr\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\ru\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\uk\BiPoliOcoder.resources.dll
+D:\VS 2013 Projects\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csprojResolveAssemblyReference.cache
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe.config
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.exe
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.pdb
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.pdb
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\de\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\es\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\fr\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\ru\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\bin\Debug\uk\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csprojResolveAssemblyReference.cache
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.AboutBox.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.SettingsForm.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.Properties.Resources.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.de.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.es.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.fr.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.ru.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.uk.resources
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csproj.GenerateResource.Cache
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\de\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\es\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\fr\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\ru\BiPoliOcoder.resources.dll
+D:\PROJECTS\BiPoliO Coder\BiPoliOcoder\obj\Debug\uk\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe.config
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.exe
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.pdb
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.exe
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\BiPoliOcoder.pdb
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\de\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\es\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\fr\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\ru\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\bin\Debug\uk\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csprojResolveAssemblyReference.cache
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.AboutBox.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.CaesarIndexSH_DSH.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.SettingsForm.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.KeyFormSH_DSH.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.Properties.Resources.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.de.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.es.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.fr.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.ru.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.MainForm.uk.resources
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\BiPoliOcoder.csproj.GenerateResource.Cache
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\de\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\es\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\fr\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\ru\BiPoliOcoder.resources.dll
+D:\bipolio-coder\BiPoliOcoder\obj\Debug\uk\BiPoliOcoder.resources.dll
